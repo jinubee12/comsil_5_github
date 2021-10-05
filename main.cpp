@@ -30,5 +30,5 @@ int main(void)
 
 	cout<<"c[-1] = "<<x<<" d[3] = "<<y<<endl;
 
-
+	cout<<"I HATE CS\n"<<endl
 }
